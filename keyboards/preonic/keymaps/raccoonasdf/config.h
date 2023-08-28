@@ -2,6 +2,8 @@
 
 #define USB_POLLING_INTERVAL_MS 1
 
+#define TAP_CODE_DELAY 2
+
 #define RGBLIGHT_DEFAULT_HUE 180
 
 #ifdef AUDIO_ENABLE
